@@ -1,0 +1,135 @@
+dependencies:
+  chmorgan/esp-audio-player:
+    component_hash: 9f762bbd153b6a49fab1f9181d1dd9467b76cb19c6901a10ec835ae451145354
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.6
+  chmorgan/esp-file-iterator:
+    component_hash: 327091394b9ef5c2cd395a960ab70ae64479e0a8831cbd9925e38895fad93719
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.0
+  chmorgan/esp-libhelix-mp3:
+    component_hash: cbb76089dc2c5749f7b470e2e70aedc44c9da519e04eb9a67d4c7ec275229e53
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.3
+  espressif/button:
+    component_hash: c3ee3ba339a3848977496d0157008ae574a24fc59f54d27c93ab51b14446a2fb
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 3.3.1
+  espressif/cmake_utilities:
+    component_hash: 351350613ceafba240b761b4ea991e0f231ac7a9f59a9ee901f751bddc0bb18f
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.5.3
+  espressif/esp-box:
+    component_hash: cb7a15328ccf8ffdde5abaa86ee5cc0dde2f33c23ce898b048e9012d04be599e
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 3.0.5
+  espressif/esp-box-3:
+    component_hash: 13b258241e2cb4f15a53511b46ba15412eab9a5da403c832258f826ff50c4aab
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.1.3
+  espressif/esp-box-lite:
+    component_hash: b5a6640825aea1372d84c30a7a81481cfc704bb6783d5cfc08e65f51374a1463
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.0.4
+  espressif/esp-dsp:
+    component_hash: 2592f9fd35b35b63cc8303078413ac3dd4ab8eecc2b53fe1cb610a86756db7a5
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.5.1
+  espressif/esp-sr:
+    component_hash: null
+    source:
+      path: D:\Program_Files\esp-box-master\examples\chatgpt_wgdemo\components\esp-sr
+      type: local
+    version: 1.7.1
+  espressif/esp_codec_dev:
+    component_hash: 014948481bda426cd46714f297fe1891711246c62bea288863a8cc8cf13ef1f0
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.2.0
+  espressif/esp_lcd_ili9341:
+    component_hash: 31f1b793aa2110dd2ae071c21ccbff0a4eb20d9a4ee40b6294c0dc0ad9552c4e
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.2.0
+  espressif/esp_lcd_touch:
+    component_hash: 779b4ba2464a3ae85681e4b860caa5fdc35801458c23f3039ee761bae7f442a4
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.1.2
+  espressif/esp_lcd_touch_gt911:
+    component_hash: 664c544533b91497f29b41e045bb4374a0d4d002f9d8c67c7c1bf43fb4179e3f
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.1.1
+  espressif/esp_lcd_touch_tt21100:
+    component_hash: 3670f6f3d68c120d680d70ffdf2dc10f6c2a5bea8c0e87521fb92ac2af1f94c5
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.1.0
+  espressif/esp_lvgl_port:
+    component_hash: b43dc04720d126cbfe14d53a84787e4c24b7bd7f15468e224c930ad3ffb32258
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.4.0
+  espressif/icm42670:
+    component_hash: 3327870e7a125e7278f318297726138278f0cda2898f2461c01af0423d4afcda
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.0
+  espressif/jsmn:
+    component_hash: d80350c41bbaa827c98a25b6072df00884e72f54885996fab4a4f0aebce6b6c3
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.1.0
+  espressif/nghttp:
+    component_hash: c52b83cc3d1083ae669751534ea4f7445974b86d91d49a5273bdb0fbf87f34d6
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.62.1
+  espressif/openai:
+    component_hash: null
+    source:
+      path: D:\Program_Files\esp-box-master\examples\chatgpt_wgdemo\components\openai
+      type: local
+    version: 0.3.1
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.0
+  lvgl/lvgl:
+    component_hash: d7c1ac037ae6e85d94897f807d6e7ba0946a83e720074fc95a4f6241da9f9f53
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 8.4.0
+manifest_hash: 57898cd9b97ea98675b70b044ef1fbafeddd7b0838332e61a1139fa194283efd
+target: esp32s3
+version: 1.0.0
