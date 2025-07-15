@@ -1,0 +1,8 @@
+source "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/bootloader/Kconfig.projbuild"
+source "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esp_app_format/Kconfig.projbuild"
+source "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esp_rom/Kconfig.projbuild"
+source "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esptool_py/Kconfig.projbuild"
+source "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/partition_table/Kconfig.projbuild"
+source "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/main/Kconfig.projbuild"
+source "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/components/bsp/Kconfig.projbuild"
+source "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/components/esp-sr/Kconfig.projbuild"

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

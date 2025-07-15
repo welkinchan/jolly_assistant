@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/CMakeFiles/bootloader
+D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/CMakeFiles/bootloader.rule
+D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/CMakeFiles/bootloader-complete.rule
+D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

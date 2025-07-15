@@ -1,0 +1,26 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/bootloader/subproject",
+    "build_dir":          "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/build/bootloader",
+    "config_file":        "D:/Program_Files/esp-box-master/examples/chatgpt_wgdemo/factory_nvs/sdkconfig",
+    "config_defaults":    "",
+    "bootloader_elf":     "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "build_type":         "flash_app",
+    "git_revision":       "v5.1-dirty",
+    "target":             "esp32s3",
+    "rev":                "",
+    "min_rev":            "0",
+    "max_rev":            "99",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32s3-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/efuse/Kconfig;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esp_common/Kconfig;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esp_hw_support/Kconfig;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esp_system/Kconfig;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/freertos/Kconfig;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/hal/Kconfig;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/log/Kconfig;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/newlib/Kconfig;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/soc/Kconfig;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/bootloader/Kconfig.projbuild;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esp_app_format/Kconfig.projbuild;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esp_rom/Kconfig.projbuild;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esptool_py/Kconfig.projbuild;D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp_app_format", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/bootloader", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/bootloader_support", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/efuse", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esp_app_format", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esp_common", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esp_hw_support", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esp_rom", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esp_system", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/esptool_py", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/freertos", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/hal", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/log", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/bootloader/subproject/main", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/bootloader/subproject/components/micro-ecc", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/newlib", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/partition_table", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/soc", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/spi_flash", "D:/Program_Files/esp-idf-510-offline/frameworks/esp-idf-v5.1/components/xtensa", "" ],
+    "debug_prefix_map_gdbinit": ""
+}
